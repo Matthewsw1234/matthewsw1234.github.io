@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Play>https://matthewsw1234.github.io/fallback-greeting.wav</Play>
+  <Record action="https://matthewsw1234.github.io/fallback-done.xml" method="GET" maxLength="120" playBeep="true" trim="trim-silence"/>
+  <Play>https://matthewsw1234.github.io/fallback-nomessage.wav</Play>
+</Response>
